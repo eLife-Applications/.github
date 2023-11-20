@@ -1,7 +1,7 @@
 <div align="center">
   
   
-  <h1>Welcome to eLife at GZ-Punt</h1>
+  <h1>Welcome to eLife</h1>
   
   <h4>
     <a href="https://github.com/orgs/eLife-Applications/repositories">Repositories</a>
