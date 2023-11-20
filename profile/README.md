@@ -1,7 +1,7 @@
 <div align="center">
   
   
-  <h1>Welcome to eLife at GZ-Point</h1>
+  <h1>Welcome to eLife at GZ-Punt</h1>
   
   <h4>
     <a href="https://github.com/orgs/eLife-Applications/repositories">Repositories</a>
@@ -20,8 +20,6 @@
 </p>
 
 </div>
-"eLife", the AI team at GZ-Point, operates in an innovative manner, utilizing modern digital tools and collaborating intelligently with a dynamic network of partners. Our approach is rooted in a holistic understanding of human well-being, where physical and mental strength go hand in hand, guided by the principles of positive health.
-
-As members of the eLife team, we actively participate in the planning and execution of projects, maintaining close communication with various partners within the extensive GZ-Point network. Together, we proactively identify current challenges and issues in the realm of health and healthcare. Our objective is to address these challenges through data-driven innovations.
+"eLife", the AI team at GZ-Punt, operates in an innovative manner, utilizing modern digital tools and collaborating intelligently with a dynamic network of partners. Our approach is rooted in a holistic understanding of human well-being, where physical and mental strength go hand in hand, guided by the principles of positive health.
 
 Utilizing advanced technologies and data-driven methodologies, we strive to develop sustainable solutions that enhance people's health experiences. Through our collective efforts, we are dedicated to increasing individual well-being and contributing to a healthier society. Join us on this journey towards a future where health is optimized through cutting-edge solutions and collaborative initiatives.
