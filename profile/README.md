@@ -20,6 +20,6 @@
 </p>
 
 </div>
-"eLife", the AI team at GZ-Punt, operates in an innovative manner, utilizing modern digital tools and collaborating intelligently with a dynamic network of partners. Our approach is rooted in a holistic understanding of human well-being, where physical and mental strength go hand in hand, guided by the principles of positive health.
+"eLife", the AI team at GZ-Punt, operates in an innovative manner, utilizing modern digital tools and collaborating intelligently with a dynamic network of partners. Our approach is rooted in a holistic understanding of human well-being, where physical and mental strength go hand in hand, guided by the principles of positive health.<br />
 
 Utilizing advanced technologies and data-driven methodologies, we strive to develop sustainable solutions that enhance people's health experiences. Through our collective efforts, we are dedicated to increasing individual well-being and contributing to a healthier society. Join us on this journey towards a future where health is optimized through cutting-edge solutions and collaborative initiatives.
