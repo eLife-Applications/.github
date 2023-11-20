@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.123consultatie.nl/images/subsite/123/123-logo.svg" alt="123Consultatie Logo">
+  
   
   <h1>Welcome to eLife at GZ-Point</h1>
   
